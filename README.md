@@ -1,0 +1,2 @@
+# KuliahTugasAI
+Tugas AI
